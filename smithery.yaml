@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-schnorr-signature-discrete-log-skill
+service:
+  name: genpark-schnorr-signature-discrete-log-skill
+  command: python
+  args:
+    - mcp_server.py
