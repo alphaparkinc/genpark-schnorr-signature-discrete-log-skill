@@ -1,0 +1,9 @@
+{
+  "name": "genpark-schnorr-signature-discrete-log-skill",
+  "version": "1.0.0",
+  "description": "Schnorr signature scheme and non-interactive zero-knowledge identification verification",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
